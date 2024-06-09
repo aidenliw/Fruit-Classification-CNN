@@ -81,5 +81,5 @@ This project demonstrates the efficacy of CNNs in fruit classification, achievin
 ## Project Files
 - [FruitClassification_HyperparameterTuning.ipynb](https://github.com/aidenliw/Fruit-Classification-CNN/blob/main/FruitClassification_HyperparameterTuning.ipynb)
 - [FruitClassification_FeatureAnalysis.ipynb](https://github.com/aidenliw/Fruit-Classification-CNN/blob/main/FruitClassification_FeatureAnalysis.ipynbb)
-- [FruitImageCompressor.ipynb]([/FruitImageCompressor.ipynb](https://github.com/aidenliw/Fruit-Classification-CNN/blob/main/FruitImageCompressor.ipynb))
-- [fruit_train.npz]([/fruit_train.npz](https://mega.nz/file/QKp3nKwJ#MsqiZBOiBBTfu0AdYZAT1nP7HLa1WwxcbObnM7TrGJI))
+- [FruitImageCompressor.ipynb](https://github.com/aidenliw/Fruit-Classification-CNN/blob/main/FruitImageCompressor.ipynb)
+- [fruit_train.npz](https://mega.nz/file/QKp3nKwJ#MsqiZBOiBBTfu0AdYZAT1nP7HLa1WwxcbObnM7TrGJI)
